@@ -5,7 +5,7 @@
 
 <!--Intro-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bikash+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Darpan Sudan!;" />
 </h1>
 <h3 align="left">A passionate <span><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=75&height=20&duration=4000&lines=Web;+IoT!;" /></span> developer from India</h3>
 
